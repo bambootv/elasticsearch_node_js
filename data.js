@@ -19,11 +19,11 @@ client.ping({
  });
 
 // delete a new index called scotch.io-tutorial
-client.indices.delete({
-    index: 'scotch.io-tutorial'
-}, (err, res, status) => {
-    console.log('Delete', err, status);
-})
+// client.indices.delete({
+//     index: 'scotch.io-tutorial'
+// }, (err, res, status) => {
+//     console.log('Delete', err, status);
+// })
 
  // create a new index called scotch.io-tutorial. If the index has already been created, this function fails safely
 client.indices.create({
