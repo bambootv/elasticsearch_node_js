@@ -16,8 +16,6 @@
 
 - Command:
 
-  `bundle install --path gems`
-
 ## Continuous Integeration
 
 - Using Docker, see [gitlab-ci.yml](https://gitlab.com/lux-tech/automation-tests/-/blob/master/.gitlab-ci.yml)
