@@ -14,8 +14,6 @@
   - Firefox
   - [Ruby 2.6 with bundler](https://gorails.com/setup/ubuntu/16.04)
 
-- Command:
-
 ## Continuous Integeration
 
 - Using Docker, see [gitlab-ci.yml](https://gitlab.com/lux-tech/automation-tests/-/blob/master/.gitlab-ci.yml)
